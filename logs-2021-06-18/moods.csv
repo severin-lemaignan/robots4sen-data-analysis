@@ -1,0 +1,29 @@
+time,level,nb_children,initial_mood,final_mood,activities,end_type
+1624004111.215846,INFO,1,mood_red,unknown,[u'listening'],interrupted
+1624004424.65193,INFO,1,unknown,unknown,[u'listening'],finished
+1624004715.947704,INFO,1,mood_red,mood_green,"[u'relaxing sounds', u'calm dances']",finished
+1624005031.639847,INFO,1,mood_yellow,unknown,[u'story'],finished
+1624005277.84748,INFO,1,mood_yellow,mood_green,[u'story'],finished
+1624006721.783863,INFO,1,mood_yellow,no,[u'calm dances'],finished
+1624007015.619887,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1624008129.645482,INFO,1,unknown,unknown,[u'cuddle'],finished
+1624008998.57783,INFO,1,unknown,unknown,"[u'story', u'cuddle', u'cuddle']",finished
+1624011386.472142,INFO,1,mood_blue,mood_green,[u'cuddle'],finished
+1624011658.040702,INFO,1,mood_green,unknown,[u'fun dances'],interrupted - no one engaged
+1624012625.978324,INFO,1,mood_green,mood_green,"[u'jokes', u'story']",finished
+1624012985.006992,INFO,1,unknown,unknown,[u'cuddle'],finished
+1624013833.197456,INFO,1,mood_yellow,unknown,[u'cuddle'],interrupted - no one engaged
+1624014131.065108,INFO,1,mood_green,unknown,[],interrupted - no one engaged
+1624014444.437677,INFO,1,mood_green,unknown,"[u'fun dances', u'listening']",interrupted - no one engaged
+1624015130.096265,INFO,2,mood_blue,mood_blue,"[u'listening', u'cuddle']",finished
+1624015673.257471,INFO,3,unknown,mood_green,"[u'fun dances', u'fun dances', u'calm music', u'cuddle', u'calm dances', u'fun dances', u'fun dances']",finished
+1624019415.195128,INFO,1,mood_blue,unknown,[],interrupted - no one engaged
+1624019449.410315,INFO,1,unknown,unknown,[],interrupted
+1624020431.814259,INFO,1,mood_green,mood_green,[u'fun dances'],finished
+1624021489.104774,INFO,2,mood_green,unknown,[u'fun dances'],interrupted - no one engaged
+1624021884.421387,INFO,1,mood_green,unknown,"[u'listening', u'cuddle', u'relaxing sounds', u'jokes']",interrupted
+1624022099.335344,INFO,1,mood_green,unknown,"[u'listening', u'cuddle', u'relaxing sounds', u'jokes', u'cuddle', u'cuddle', u'jokes']",interrupted
+1624022104.703682,INFO,1,mood_green,yes,"[u'listening', u'cuddle', u'relaxing sounds', u'jokes', u'cuddle', u'cuddle', u'jokes']",finished
+1624023751.587851,INFO,2,mood_green,mood_green,"[u'cuddle', u'story', u'cuddle', u'fun dances', u'cuddle']",finished
+1624023856.256438,INFO,2,mood_red,mood_green,[u'calm dances'],finished
+1624024073.258687,INFO,1,unknown,unknown,[],interrupted - no one engaged

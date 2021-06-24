@@ -1,0 +1,34 @@
+time,level,nb_children,initial_mood,final_mood,activities,end_type
+1623746254.123679,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623746768.510065,INFO,1,mood_green,no,"[u'fun dances', u'relaxing sounds']",finished
+1623747472.936708,INFO,1,mood_green,mood_green,"[u'fun dances', u'jokes']",finished
+1623747716.362422,INFO,1,mood_yellow,mood_red,"[u'jokes', u'jokes', u'fun dances']",finished
+1623748005.392872,INFO,1,mood_green,mood_green,[u'fun dances'],finished
+1623748793.969685,INFO,1,unknown,unknown,[u'jokes'],finished
+1623749431.330182,INFO,1,unknown,unknown,[],interrupted
+1623749442.916091,INFO,1,unknown,unknown,[],interrupted
+1623749446.007145,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623749750.391259,INFO,2,unknown,mood_green,[u'listening'],finished
+1623749878.745983,INFO,1,mood_green,unknown,[],interrupted - no one engaged
+1623750781.170966,INFO,1,mood_green,unknown,"[u'listening', u'jokes']",finished
+1623750884.146453,INFO,1,mood_yellow,unknown,[],interrupted - no one engaged
+1623751604.931811,INFO,1,mood_blue,unknown,[],interrupted - no one engaged
+1623752287.566446,INFO,2,mood_green,mood_green,[u'calm dances'],finished
+1623755063.769682,INFO,1,mood_blue,mood_blue,[u'fun dances'],finished
+1623755446.304671,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623755575.682035,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623756318.114182,INFO,1,mood_green,mood_red,"[u'jokes', u'jokes', u'listening']",finished
+1623756652.006093,INFO,2,mood_blue,unknown,"[u'jokes', u'calm music', u'cuddle', u'fun dances']",interrupted - no one engaged
+1623757104.715958,INFO,1,mood_green,mood_green,"[u'cuddle', u'jokes', u'calm music', u'listening', u'jokes']",finished
+1623757634.427916,INFO,1,mood_green,unknown,"[u'cuddle', u'relaxing sounds', u'fun dances', u'cuddle', u'calm dances']",interrupted - no one engaged
+1623760307.867521,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623760565.628719,INFO,2,mood_red,unknown,[u'cuddle'],interrupted - no one engaged
+1623760887.969807,INFO,2,mood_green,unknown,[u'jokes'],finished
+1623761249.039704,INFO,1,mood_yellow,unknown,[],interrupted - no one engaged
+1623762444.558342,INFO,1,mood_blue,mood_green,[u'cuddle'],finished
+1623762620.072882,INFO,1,mood_green,mood_green,[u'listening'],finished
+1623762765.669422,INFO,2,unknown,unknown,[],interrupted - no one engaged
+1623763815.542927,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623764209.677596,INFO,1,mood_yellow,unknown,[],interrupted - no one engaged
+1623765092.23053,INFO,1,mood_red,unknown,[],interrupted - no one engaged
+1623765156.776652,INFO,1,unknown,unknown,[],interrupted - no one engaged

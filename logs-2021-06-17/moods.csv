@@ -1,0 +1,24 @@
+time,level,nb_children,initial_mood,final_mood,activities,end_type
+1623915900.862517,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623916059.517062,INFO,1,mood_green,unknown,[u'cuddle'],interrupted - no one engaged
+1623916398.076108,INFO,2,unknown,unknown,[u'story'],interrupted - no one engaged
+1623916977.76302,INFO,1,mood_green,unknown,[],interrupted - no one engaged
+1623917428.23811,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623917927.692431,INFO,1,mood_green,mood_green,[u'cuddle'],finished
+1623918948.384244,INFO,1,mood_green,mood_red,"[u'fun dances', u'fun dances']",finished
+1623919026.104251,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623920806.01026,INFO,1,mood_red,mood_green,[u'cuddle'],finished
+1623920941.693483,INFO,2,mood_blue,mood_blue,[u'listening'],finished
+1623921429.480273,INFO,1,mood_green,mood_green,"[u'jokes', u'fun dances']",finished
+1623921696.373642,INFO,3,mood_green,unknown,[u'story'],interrupted
+1623921722.016039,INFO,1,unknown,unknown,[],interrupted
+1623923730.839844,INFO,1,mood_green,mood_green,[u'jokes'],finished
+1623929043.862131,INFO,1,mood_green,unknown,[u'story'],interrupted - no one engaged
+1623933580.660849,INFO,1,mood_blue,unknown,"[u'jokes', u'fun dances', u'story', u'cuddle', u'listening', u'calm dances']",interrupted
+1623933972.314683,INFO,3,unknown,unknown,[],interrupted
+1623934581.435149,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623936803.203023,INFO,1,mood_green,unknown,[u'jokes'],interrupted - no one engaged
+1623936971.624605,INFO,1,mood_green,unknown,"[u'fun dances', u'jokes']",interrupted - no one engaged
+1623937291.615553,INFO,1,mood_green,unknown,[u'fun dances'],interrupted - no one engaged
+1623937737.047694,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1623937833.32107,INFO,1,unknown,unknown,[],interrupted - no one engaged
