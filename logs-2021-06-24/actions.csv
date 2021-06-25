@@ -1,0 +1,464 @@
+time,level,activity,status
+1624520182.095716,INFO,default,running
+1624520491.540568,INFO,default,finished
+1624520491.547904,INFO,mood board,running
+1624520502.081891,INFO,listening,mood_yellow
+1624520502.082368,INFO,mood board,finished
+1624520502.084066,INFO,listening,running
+1624520508.179802,INFO,listening,interrupted from Pepper tablet
+1624520508.180963,INFO,mood board,running
+1624520514.856278,INFO,cuddle,mood_yellow
+1624520514.856878,INFO,mood board,finished
+1624520514.858586,INFO,cuddle,running
+1624520530.149222,INFO,cuddle,finished
+1624520530.150334,INFO,mood board,running
+1624520533.775963,INFO,mood board,interrupted - no one engaged
+1624520533.776947,INFO,default,running
+1624520842.650929,INFO,default,interrupted - no one engaged
+1624520842.651794,INFO,default,running
+1624522132.162709,INFO,default,finished
+1624522132.166555,INFO,mood board,running
+1624522152.277112,INFO,jokes,mood_blue
+1624522152.277669,INFO,mood board,finished
+1624522152.279358,INFO,jokes,running
+1624522178.694943,INFO,jokes,interrupted from Pepper tablet
+1624522178.69599,INFO,mood board,running
+1624522196.445364,INFO,mood board,finished
+1624522196.446892,INFO,default,running
+1624522199.438788,INFO,default,interrupted - no one engaged
+1624522199.439134,INFO,default,running
+1624522956.119947,INFO,default,finished
+1624522956.12291,INFO,mood board,running
+1624522970.430197,INFO,fun dances,mood_green
+1624522970.430783,INFO,mood board,finished
+1624522970.432554,INFO,fun dances,running
+1624523026.301858,INFO,fun dances,finished
+1624523026.302949,INFO,mood board,running
+1624523036.625582,INFO,fun dances,mood_green
+1624523036.625886,INFO,mood board,finished
+1624523036.627563,INFO,fun dances,running
+1624523048.843564,INFO,fun dances,finished
+1624523048.844624,INFO,mood board,running
+1624523058.971224,INFO,story,mood_green
+1624523058.971728,INFO,mood board,finished
+1624523058.973386,INFO,story,running
+1624523068.797835,INFO,story,interrupted from Pepper tablet
+1624523068.79876,INFO,mood board,running
+1624523076.700318,INFO,fun dances,mood_green
+1624523076.700896,INFO,mood board,finished
+1624523076.702831,INFO,fun dances,running
+1624523096.106948,INFO,fun dances,finished
+1624523096.108034,INFO,mood board,running
+1624523113.363822,INFO,fun dances,mood_green
+1624523113.364162,INFO,mood board,finished
+1624523113.366145,INFO,fun dances,running
+1624523170.716043,INFO,fun dances,finished
+1624523170.717258,INFO,mood board,running
+1624523181.412138,INFO,fun dances,mood_green
+1624523181.412489,INFO,mood board,finished
+1624523181.414733,INFO,fun dances,running
+1624523193.668855,INFO,fun dances,finished
+1624523193.670289,INFO,mood board,running
+1624523228.196701,INFO,mood board,finished
+1624523228.198606,INFO,default,running
+1624523230.38341,INFO,default,interrupted - no one engaged
+1624523230.383792,INFO,default,running
+1624523299.626813,INFO,mood board,running
+1624523301.84661,INFO,mood board,interrupted - no one engaged
+1624523301.847423,INFO,default,running
+1624524712.474578,INFO,mood board,running
+1624524739.555461,INFO,mood board,interrupted - no one engaged
+1624524739.556536,INFO,default,running
+1624525379.70863,INFO,mood board,running
+1624525383.373773,INFO,default,running
+1624525383.425336,INFO,mood board,running
+1624525404.180019,INFO,calm dances,mood_red
+1624525404.180461,INFO,mood board,finished
+1624525404.182166,INFO,calm dances,running
+1624525456.650707,INFO,calm dances,finished
+1624525456.651772,INFO,mood board,running
+1624525463.6557,INFO,mood board,interrupted from ctrl tablet
+1624525463.656771,INFO,default,running
+1624527351.599505,INFO,mood board,running
+1624527355.297515,INFO,default,running
+1624527355.348657,INFO,mood board,running
+1624527371.014481,INFO,fun dances,mood_green
+1624527371.014786,INFO,mood board,finished
+1624527371.171042,INFO,fun dances,running
+1624527390.50714,INFO,fun dances,finished
+1624527390.508209,INFO,mood board,running
+1624527405.725644,INFO,fun dances,mood_green
+1624527405.726238,INFO,mood board,finished
+1624527405.72796,INFO,fun dances,running
+1624527418.896234,INFO,fun dances,finished
+1624527418.897527,INFO,mood board,running
+1624527455.803022,INFO,fun dances,mood_green
+1624527455.803433,INFO,mood board,finished
+1624527455.804872,INFO,fun dances,running
+1624527476.076471,INFO,fun dances,finished
+1624527476.0776,INFO,mood board,running
+1624527483.49553,INFO,fun dances,mood_green
+1624527483.495833,INFO,mood board,finished
+1624527483.497232,INFO,fun dances,running
+1624527496.653677,INFO,fun dances,finished
+1624527496.654741,INFO,mood board,running
+1624527503.866447,INFO,fun dances,mood_green
+1624527503.866752,INFO,mood board,finished
+1624527503.868134,INFO,fun dances,running
+1624527560.586172,INFO,fun dances,finished
+1624527560.586701,INFO,mood board,running
+1624527586.798486,INFO,cuddle,mood_green
+1624527586.799025,INFO,mood board,finished
+1624527586.80067,INFO,cuddle,running
+1624527601.429284,INFO,cuddle,finished
+1624527601.429737,INFO,mood board,running
+1624527635.590261,INFO,fun dances,mood_green
+1624527635.59043,INFO,mood board,finished
+1624527635.591226,INFO,fun dances,running
+1624527648.713305,INFO,fun dances,finished
+1624527648.714465,INFO,mood board,running
+1624527666.484635,INFO,fun dances,mood_green
+1624527666.484935,INFO,mood board,finished
+1624527666.486313,INFO,fun dances,running
+1624527723.227937,INFO,fun dances,finished
+1624527723.230569,INFO,mood board,running
+1624527732.423523,INFO,mood board,finished
+1624527732.425281,INFO,default,running
+1624527738.554374,INFO,default,interrupted - no one engaged
+1624527738.555314,INFO,default,running
+1624528422.796442,INFO,mood board,running
+1624528425.900417,INFO,default,running
+1624528425.952231,INFO,mood board,running
+1624528453.852648,INFO,fun dances,unknown
+1624528453.852956,INFO,mood board,finished
+1624528453.854407,INFO,fun dances,running
+1624528510.00013,INFO,fun dances,finished
+1624528510.001191,INFO,mood board,running
+1624528517.908853,INFO,mood board,finished
+1624528517.910539,INFO,default,running
+1624528520.753108,INFO,default,interrupted - no one engaged
+1624528520.754349,INFO,default,running
+1624528571.963759,INFO,mood board,running
+1624528603.545236,INFO,cuddle,unknown
+1624528603.545413,INFO,mood board,finished
+1624528603.546262,INFO,cuddle,running
+1624528618.218471,INFO,cuddle,finished
+1624528618.21972,INFO,mood board,running
+1624528631.650729,INFO,mood board,finished
+1624528631.653047,INFO,default,running
+1624528637.58125,INFO,default,interrupted - no one engaged
+1624528637.582216,INFO,default,running
+1624528649.7651,INFO,mood board,running
+1624528687.517958,INFO,fun dances,unknown
+1624528687.518107,INFO,mood board,finished
+1624528687.518841,INFO,fun dances,running
+1624528743.37382,INFO,fun dances,finished
+1624528743.374746,INFO,mood board,running
+1624528753.978493,INFO,mood board,finished
+1624528753.980538,INFO,default,running
+1624528758.343234,INFO,default,finished
+1624528758.345103,INFO,mood board,running
+1624528791.439602,INFO,fun dances,mood_green
+1624528791.439916,INFO,mood board,finished
+1624528791.441414,INFO,fun dances,running
+1624528815.28966,INFO,fun dances,interrupted from ctrl tablet
+1624528815.780569,INFO,default,running
+1624530142.520685,INFO,default,finished
+1624530142.523577,INFO,mood board,running
+1624530159.500653,INFO,fun dances,mood_green
+1624530159.501207,INFO,mood board,finished
+1624530159.502808,INFO,fun dances,running
+1624530178.855799,INFO,fun dances,finished
+1624530178.857082,INFO,mood board,running
+1624530185.922006,INFO,fun dances,mood_green
+1624530185.922546,INFO,mood board,finished
+1624530185.924087,INFO,fun dances,running
+1624530205.28519,INFO,fun dances,finished
+1624530205.286247,INFO,mood board,running
+1624530212.689292,INFO,fun dances,mood_green
+1624530212.6896,INFO,mood board,finished
+1624530212.691188,INFO,fun dances,running
+1624530269.398894,INFO,fun dances,finished
+1624530269.400334,INFO,mood board,running
+1624530280.017278,INFO,fun dances,mood_green
+1624530280.017606,INFO,mood board,finished
+1624530280.019172,INFO,fun dances,running
+1624530301.390034,INFO,fun dances,finished
+1624530301.391161,INFO,mood board,running
+1624530323.702097,INFO,fun dances,mood_green
+1624530323.702301,INFO,mood board,finished
+1624530323.70347,INFO,fun dances,running
+1624530343.047827,INFO,fun dances,finished
+1624530343.048848,INFO,mood board,running
+1624530351.946321,INFO,mood board,interrupted - no one engaged
+1624530351.946716,INFO,default,running
+1624530353.317601,INFO,default,interrupted from ctrl tablet
+1624530353.318025,INFO,default,running
+1624530354.882931,INFO,default,interrupted from ctrl tablet
+1624530354.883286,INFO,default,running
+1624530355.086452,INFO,default,interrupted from ctrl tablet
+1624530355.087404,INFO,default,running
+1624530356.876135,INFO,default,interrupted from ctrl tablet
+1624530356.877123,INFO,default,running
+1624530479.264524,INFO,default,running
+1624532112.061433,INFO,default,running
+1624533395.989629,INFO,mood board,running
+1624533415.663247,INFO,mood board,interrupted - no one engaged
+1624533415.664163,INFO,default,running
+1624534046.963214,INFO,mood board,running
+1624534085.057381,INFO,fun dances,unknown
+1624534085.05771,INFO,mood board,finished
+1624534085.059279,INFO,fun dances,running
+1624534105.307544,INFO,fun dances,finished
+1624534105.30813,INFO,mood board,running
+1624534122.49899,INFO,mood board,finished
+1624534122.501014,INFO,default,running
+1624534126.917709,INFO,default,finished
+1624534126.919705,INFO,mood board,running
+1624534163.097245,INFO,listening,mood_blue
+1624534163.097576,INFO,mood board,finished
+1624534163.099321,INFO,listening,running
+1624534202.864456,INFO,listening,interrupted from Pepper tablet
+1624534202.865397,INFO,mood board,running
+1624534211.479282,INFO,mood board,finished
+1624534211.48133,INFO,default,running
+1624534212.607704,INFO,default,finished
+1624534212.609649,INFO,mood board,running
+1624534254.467175,INFO,cuddle,mood_yellow
+1624534254.467722,INFO,mood board,finished
+1624534254.469778,INFO,cuddle,running
+1624534269.758768,INFO,cuddle,finished
+1624534269.76032,INFO,mood board,running
+1624534280.97379,INFO,calm dances,mood_yellow
+1624534280.974341,INFO,mood board,finished
+1624534280.97598,INFO,calm dances,running
+1624534334.090251,INFO,calm dances,finished
+1624534334.091447,INFO,mood board,running
+1624534358.717649,INFO,story,mood_yellow
+1624534358.718171,INFO,mood board,finished
+1624534358.719795,INFO,story,running
+1624534368.90347,INFO,story,interrupted from Pepper tablet
+1624534368.90387,INFO,mood board,running
+1624534378.191503,INFO,mood board,finished
+1624534378.193389,INFO,default,running
+1624534379.820476,INFO,default,finished
+1624534379.822443,INFO,mood board,running
+1624534393.548656,INFO,listening,mood_green
+1624534393.548961,INFO,mood board,finished
+1624534393.550887,INFO,listening,running
+1624534408.319575,INFO,listening,interrupted from Pepper tablet
+1624534408.320911,INFO,mood board,running
+1624534424.508003,INFO,mood board,finished
+1624534424.51009,INFO,default,running
+1624534445.131239,INFO,default,finished
+1624534445.13329,INFO,mood board,running
+1624534460.216788,INFO,fun dances,mood_green
+1624534460.217341,INFO,mood board,finished
+1624534460.218888,INFO,fun dances,running
+1624534472.431265,INFO,fun dances,finished
+1624534472.432371,INFO,mood board,running
+1624534482.459648,INFO,jokes,mood_green
+1624534482.460195,INFO,mood board,finished
+1624534482.461882,INFO,jokes,running
+1624534507.492961,INFO,jokes,interrupted from Pepper tablet
+1624534507.4943,INFO,mood board,running
+1624534538.36933,INFO,cuddle,mood_green
+1624534538.369672,INFO,mood board,finished
+1624534538.371813,INFO,cuddle,running
+1624534553.662671,INFO,cuddle,finished
+1624534553.664022,INFO,mood board,running
+1624534587.655127,INFO,fun dances,mood_green
+1624534587.655564,INFO,mood board,finished
+1624534587.657198,INFO,fun dances,running
+1624534643.467402,INFO,fun dances,finished
+1624534643.4685,INFO,mood board,running
+1624534653.392491,INFO,mood board,finished
+1624534653.394378,INFO,default,running
+1624534654.825778,INFO,default,finished
+1624534654.828134,INFO,mood board,running
+1624534663.318191,INFO,calm dances,mood_yellow
+1624534663.318489,INFO,mood board,finished
+1624534663.320073,INFO,calm dances,running
+1624534715.774139,INFO,calm dances,finished
+1624534715.775451,INFO,mood board,running
+1624534724.442259,INFO,relaxing sounds,mood_yellow
+1624534724.442745,INFO,mood board,finished
+1624534724.444344,INFO,relaxing sounds,running
+1624534741.874355,INFO,relaxing sounds,interrupted from Pepper tablet
+1624534742.260368,INFO,mood board,running
+1624534768.333386,INFO,jokes,mood_yellow
+1624534768.334129,INFO,mood board,finished
+1624534768.336,INFO,jokes,running
+1624534782.111146,INFO,jokes,interrupted from Pepper tablet
+1624534782.111994,INFO,mood board,running
+1624534837.325906,INFO,fun dances,mood_yellow
+1624534837.326257,INFO,mood board,finished
+1624534837.328832,INFO,fun dances,running
+1624534856.671679,INFO,fun dances,finished
+1624534856.67275,INFO,mood board,running
+1624534888.495521,INFO,fun dances,mood_yellow
+1624534888.496055,INFO,mood board,finished
+1624534888.497641,INFO,fun dances,running
+1624534900.69453,INFO,fun dances,finished
+1624534900.695738,INFO,mood board,running
+1624534914.006225,INFO,calm music,mood_yellow
+1624534914.00658,INFO,mood board,finished
+1624534914.00873,INFO,calm music,running
+1624535035.042443,INFO,calm music,finished
+1624535035.043598,INFO,mood board,running
+1624535043.782163,INFO,cuddle,mood_yellow
+1624535043.782478,INFO,mood board,finished
+1624535043.783985,INFO,cuddle,running
+1624535058.387911,INFO,cuddle,finished
+1624535058.389069,INFO,mood board,running
+1624535076.32378,INFO,jokes,mood_yellow
+1624535076.323921,INFO,mood board,finished
+1624535076.324479,INFO,jokes,running
+1624535107.424216,INFO,jokes,finished
+1624535107.425319,INFO,mood board,running
+1624535112.339311,INFO,mood board,interrupted from Pepper tablet
+1624535112.340164,INFO,mood board,running
+1624535124.210393,INFO,story,mood_yellow
+1624535124.210979,INFO,mood board,finished
+1624535124.212577,INFO,story,running
+1624535217.074819,INFO,story,interrupted from Pepper tablet
+1624535217.075853,INFO,mood board,running
+1624535266.070343,INFO,fun dances,mood_yellow
+1624535266.070662,INFO,mood board,finished
+1624535266.071597,INFO,fun dances,running
+1624535321.901684,INFO,fun dances,finished
+1624535321.902835,INFO,mood board,running
+1624535331.404789,INFO,mood board,finished
+1624535331.406438,INFO,default,running
+1624535335.868656,INFO,default,interrupted - no one engaged
+1624535335.869563,INFO,default,running
+1624538077.45786,INFO,default,running
+1624538416.727378,INFO,default,finished
+1624538416.730004,INFO,mood board,running
+1624538440.479219,INFO,relaxing sounds,mood_blue
+1624538440.479793,INFO,mood board,finished
+1624538440.481731,INFO,relaxing sounds,running
+1624538472.089236,INFO,relaxing sounds,finished
+1624538472.090399,INFO,mood board,running
+1624538482.525439,INFO,mood board,interrupted - no one engaged
+1624538482.526095,INFO,default,running
+1624539149.488119,INFO,mood board,running
+1624539173.236322,INFO,story,mood_blue
+1624539173.236938,INFO,mood board,finished
+1624539173.241948,INFO,story,running
+1624539223.504618,INFO,story,interrupted from Pepper tablet
+1624539223.504983,INFO,mood board,running
+1624539237.250276,INFO,mood board,finished
+1624539237.252361,INFO,default,running
+1624539242.232089,INFO,default,finished
+1624539242.234017,INFO,mood board,running
+1624539258.365328,INFO,listening,mood_blue
+1624539258.365636,INFO,mood board,finished
+1624539258.367066,INFO,listening,running
+1624539270.19736,INFO,listening,interrupted from Pepper tablet
+1624539270.198321,INFO,mood board,running
+1624539285.50958,INFO,jokes,mood_blue
+1624539285.509948,INFO,mood board,finished
+1624539285.511465,INFO,jokes,running
+1624539297.679351,INFO,jokes,interrupted from Pepper tablet
+1624539297.680262,INFO,mood board,running
+1624539338.444529,INFO,fun dances,mood_blue
+1624539338.445106,INFO,mood board,finished
+1624539338.446771,INFO,fun dances,running
+1624539357.849895,INFO,fun dances,finished
+1624539357.851181,INFO,mood board,running
+1624539395.74644,INFO,relaxing sounds,mood_blue
+1624539395.747053,INFO,mood board,finished
+1624539395.748583,INFO,relaxing sounds,running
+1624539402.670419,INFO,relaxing sounds,interrupted from Pepper tablet
+1624539403.011962,INFO,mood board,running
+1624539414.581547,INFO,mood board,finished
+1624539414.583602,INFO,default,running
+1624539424.592467,INFO,default,finished
+1624539424.594466,INFO,mood board,running
+1624539438.00303,INFO,mood board,interrupted - no one engaged
+1624539438.003961,INFO,default,running
+1624539439.982127,INFO,default,interrupted from ctrl tablet
+1624539439.98316,INFO,default,running
+1624540043.272862,INFO,mood board,running
+1624540056.541453,INFO,relaxing sounds,unknown
+1624540056.541884,INFO,mood board,finished
+1624540056.543705,INFO,relaxing sounds,running
+1624540062.535123,INFO,relaxing sounds,interrupted from Pepper tablet
+1624540063.65505,INFO,mood board,running
+1624540068.959222,INFO,mood board,finished
+1624540068.960809,INFO,default,running
+1624540072.217915,INFO,default,finished
+1624540072.220014,INFO,mood board,running
+1624540084.737998,INFO,calm dances,unknown
+1624540084.7383,INFO,mood board,finished
+1624540084.739121,INFO,calm dances,running
+1624540137.83039,INFO,calm dances,finished
+1624540137.831615,INFO,mood board,running
+1624540142.147268,INFO,mood board,finished
+1624540142.149187,INFO,default,running
+1624540143.983604,INFO,default,finished
+1624540143.985436,INFO,mood board,running
+1624540161.362237,INFO,listening,mood_green
+1624540161.362578,INFO,mood board,finished
+1624540161.364707,INFO,listening,running
+1624540182.535026,INFO,listening,interrupted from Pepper tablet
+1624540182.535574,INFO,mood board,running
+1624540194.133291,INFO,mood board,finished
+1624540194.135303,INFO,default,running
+1624540195.766401,INFO,default,finished
+1624540195.76852,INFO,mood board,running
+1624540209.440027,INFO,fun dances,mood_green
+1624540209.44068,INFO,mood board,finished
+1624540209.442397,INFO,fun dances,running
+1624540265.275973,INFO,fun dances,finished
+1624540265.277105,INFO,mood board,running
+1624540293.703664,INFO,listening,mood_green
+1624540293.703768,INFO,mood board,finished
+1624540293.70428,INFO,listening,running
+1624540313.309648,INFO,listening,interrupted from Pepper tablet
+1624540313.310598,INFO,mood board,running
+1624540324.608221,INFO,mood board,finished
+1624540324.609913,INFO,default,running
+1624540327.457642,INFO,default,finished
+1624540327.459708,INFO,mood board,running
+1624540342.535365,INFO,jokes,mood_green
+1624540342.535918,INFO,mood board,finished
+1624540342.53753,INFO,jokes,running
+1624540372.150706,INFO,jokes,finished
+1624540372.151934,INFO,mood board,running
+1624540387.134394,INFO,mood board,interrupted - no one engaged
+1624540387.135377,INFO,default,running
+1624541664.840756,INFO,mood board,running
+1624541679.901756,INFO,default,running
+1624541683.347005,INFO,default,finished
+1624541683.348098,INFO,mood board,running
+1624541704.467683,INFO,cuddle,mood_yellow
+1624541704.468271,INFO,mood board,finished
+1624541704.46977,INFO,cuddle,running
+1624541719.06148,INFO,cuddle,finished
+1624541719.062554,INFO,mood board,running
+1624541740.268325,INFO,mood board,finished
+1624541740.270101,INFO,default,running
+1624541772.710995,INFO,default,interrupted - no one engaged
+1624541772.712277,INFO,default,running
+1624542285.21833,INFO,mood board,running
+1624542313.804925,INFO,story,mood_green
+1624542313.805242,INFO,mood board,finished
+1624542313.806643,INFO,story,running
+1624542378.053409,INFO,story,interrupted from Pepper tablet
+1624542378.054451,INFO,mood board,running
+1624542388.320506,INFO,mood board,finished
+1624542388.322407,INFO,default,running
+1624542394.898483,INFO,mood board,running
+1624542431.648146,INFO,cuddle,mood_green
+1624542431.648565,INFO,mood board,finished
+1624542431.650215,INFO,cuddle,running
+1624542446.955586,INFO,cuddle,finished
+1624542446.956538,INFO,mood board,running
+1624542470.211981,INFO,mood board,finished
+1624542470.213594,INFO,default,running
+1624542479.17021,INFO,default,interrupted - no one engaged
+1624542479.171229,INFO,default,running
+1624542479.223079,INFO,default,interrupted from ctrl tablet
+1624542479.223992,INFO,default,running
