@@ -1,0 +1,25 @@
+time,level,nb_children,initial_mood,final_mood,activities,end_type
+1624953185.629462,INFO,1,mood_red,unknown,[u'calm dances'],interrupted - no one engaged
+1624954363.527503,INFO,1,mood_green,mood_red,[u'fun dances'],finished
+1624957384.191557,INFO,1,mood_green,unknown,"[u'jokes', u'fun dances', u'jokes']",interrupted - no one engaged
+1624957433.56208,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1624958790.369124,INFO,1,mood_red,mood_red,[u'cuddle'],finished
+1624959062.167859,INFO,1,unknown,unknown,"[u'fun dances', u'fun dances', u'fun dances', u'jokes']",finished
+1624960534.507109,INFO,1,mood_green,unknown,"[u'fun dances', u'fun dances', u'fun dances', u'fun dances', u'fun dances']",interrupted
+1624963195.098357,INFO,1,mood_red,mood_red,"[u'cuddle', u'fun dances', u'fun dances', u'fun dances', u'story']",finished
+1624963248.407225,INFO,1,mood_red,mood_red,[u'listening'],finished
+1624963406.039693,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1624964322.332365,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1624965523.585408,INFO,1,mood_blue,unknown,[u'fun dances'],interrupted - no one engaged
+1624965801.440532,INFO,1,mood_blue,unknown,"[u'fun dances', u'fun dances', u'fun dances']",interrupted
+1624971874.670064,INFO,1,unknown,mood_red,[u'fun dances'],finished
+1624972391.370425,INFO,1,unknown,unknown,[u'fun dances'],finished
+1624972451.519614,INFO,1,unknown,unknown,[],interrupted - no one engaged
+1624972590.26836,INFO,1,mood_red,mood_red,[u'fun dances'],finished
+1624973141.681548,INFO,1,mood_green,mood_green,"[u'jokes', u'cuddle']",finished
+1624973217.544469,INFO,1,unknown,mood_red,[u'fun dances'],finished
+1624973282.081613,INFO,1,unknown,mood_red,[u'fun dances'],finished
+1624973358.522896,INFO,1,mood_red,mood_blue,[u'relaxing sounds'],finished
+1624973471.726355,INFO,1,unknown,unknown,[u'jokes'],finished
+1624974077.48357,INFO,2,mood_green,unknown,"[u'story', u'jokes']",interrupted - no one engaged
+1624974432.689381,INFO,1,mood_green,unknown,[u'fun dances'],interrupted - no one engaged
