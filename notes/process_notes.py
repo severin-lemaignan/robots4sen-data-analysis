@@ -8,7 +8,7 @@ notes = []
 
 coding = {
         "M": "Mood modulation / reflection",
-        "P": "Play / entertainment",
+        "P": "Unstructured/playful",
         "S": "Social (e.g. treating Pepper as a social entity)",
         "G": "Group interactions (with other students and/or staff)",
         "H": "Hidden interactions (e.g. watching Pepper from a distance)",
@@ -76,6 +76,16 @@ for l in raw_notes:
 print("# Joe's notes -- after coding\n")
 
 print("Total: %s notes over 13 days\n" % len(notes))
+
+
+for c in coding:
+
+    count=0
+    for n in notes:
+        if c in n.code:
+            count += 1
+
+    print("- %s: %s notes\n" % (coding[c], count))
 
 print("\n## Constructs\n")
 
